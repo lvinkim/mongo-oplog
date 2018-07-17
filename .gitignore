@@ -1,0 +1,9 @@
+/*
+
+!.gitignore
+!/src/
+!/tests/
+!composer.json
+!composer.lock
+!docker-compose.yml
+!README.md
